@@ -1,8 +1,8 @@
 # LocalMarket_API
 
-npm install
+#npm install
 
-In MySql
-create databese LocalMarket 
+##In MySql
+#create databese LocalMarket 
 
-npm run dev
+#npm run dev
