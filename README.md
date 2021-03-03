@@ -2,7 +2,7 @@
 
 #npm install
 
-##In MySql
+#In MySql
 #create databese LocalMarket 
 
 #npm run dev
